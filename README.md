@@ -25,12 +25,10 @@
   </a>
   
   <a href="https://codeforces.com/profile/rp6405050" target="blank">
-    
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
   </a>
   
   <a href="https://www.leetcode.com/rp6405050" target="blank">
-    
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>
 </p>
